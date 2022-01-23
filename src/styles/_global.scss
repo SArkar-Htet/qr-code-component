@@ -18,6 +18,12 @@ body {
   align-items: center;
   font-family: 'Outfit', sans-serif;
   font-size: $font-md;
-  font-weight: $font-md;
+  font-weight: $font-normal;
+  color: $grayishBlue;
   line-height: 1.3;
+}
+
+.font-bold {
+  font-weight: $font-bold;
+  color: $darkBlue;
 }
